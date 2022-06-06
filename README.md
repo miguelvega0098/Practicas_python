@@ -8,5 +8,5 @@ En este curso aprenderas a programar en Python
 -Editor de texto como [Visual Studio Code](https://visualstudio.microsoft.com/es/)
 
 --------------------------------
-![Sooy yo](Imagenes\7hh9nw.jpg)
+![Sooy yo](https://github.com/miguelvega0098/Practicas_python/blob/main/Imagenes%5C7hh9nw.jpg)
  Toy bien guapa 
