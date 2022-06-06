@@ -5,7 +5,7 @@ Ademas F(0) = 1 y F(1) = 1
 1; 1; 2; 3, 5; 8; 13; 21; 34; 55; 89
 """
 # Para que la funcion no use tantos recursos definimos un diccionario
-fibo_dict = dict()
+fibo_dict = dict() #Construimos un diccionario vacio para guardar los valores de la serie ya calculados
 
 #Funcion recursiva de Fibonacci
 def fibonacci(num:int) -> int:
